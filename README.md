@@ -13,14 +13,14 @@
       <li> 
            Data-driven financial problems
              <ol>
-                <li> Social and behavioral persepectives</li>
+                <li> Its intersection with social and behavioral persepectives</li>
                 <li> Geographical/ geopolictial problems </li>
              </ol>
       </li>
       <li> Demand asset pricing </li>
              <ol>
-                <li> The role of intermeditary plays in asset pricing </li>
-                <li> Sentiment, disagreement, and spillover (contagion) stories </li>
+                <li> The role of financial intermediaries play in asset pricing </li>
+                <li> Its intersection with sentiment, disagreement, and spillover (contagion) stories </li>
              </ol>
     </ol>
   </div>
