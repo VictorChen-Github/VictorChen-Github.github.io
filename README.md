@@ -36,7 +36,7 @@
   <div> 
     <ol>
       <li> 
-           Racial Integration and Active Investing 
+           Racial Integration and Active Investing ( with Gady Jacoby, Jiang Hao, Chi Liao, and Lei Lu )
              <ol>
                 <li> paper ( will be available on SSRN soon )</li>
                 <li> <a href='https://drive.google.com/uc?export=download&id=1RP0dQH-8Pxdl5D93IAnwp069n4BtbagQ'>Online appendix </a> for 
